@@ -47,8 +47,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+### Name: J.NETHRAA
+### Register Number: 212222100031
 
 ## RESULT:
-###   Thus a prototype of the given part model is developed using 3D Printer.
+### Thus a prototype of the given part model is developed using 3D Printer.
